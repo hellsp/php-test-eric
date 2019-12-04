@@ -1,4 +1,4 @@
-<?php
+<? php
 
     header('Content-Type: application/xhtml+xml; charset=utf-8');
 	 
